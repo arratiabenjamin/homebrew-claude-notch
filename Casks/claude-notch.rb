@@ -1,6 +1,6 @@
 cask "claude-notch" do
-  version "2.7.0"
-  sha256 "e7e401b18e244c0d9a614b6b034199161571c566bcdab55ac40d2b3eca1c99ad"
+  version "2.8.0"
+  sha256 "e97534c3797fc5073689f693774465eecffee54430336d30b188d9eee16649a9"
 
   url "https://github.com/arratiabenjamin/claude-notch/releases/download/v#{version}/ClaudeNotch-v#{version}.zip"
   name "Claude Notch"
