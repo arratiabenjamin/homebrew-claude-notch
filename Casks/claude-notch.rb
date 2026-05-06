@@ -2,8 +2,7 @@ cask "claude-notch" do
   version "2.6.0"
   sha256 "325b7228646d112e84639e4cc3d08aec9f2725d746680df65d1ef53f5211c320"
 
-  url "https://github.com/arratiabenjamin/claude-notch/releases/download/v#{version}/ClaudeNotch-v#{version}.zip",
-      verified: "github.com/arratiabenjamin/claude-notch/"
+  url "https://github.com/arratiabenjamin/claude-notch/releases/download/v#{version}/ClaudeNotch-v#{version}.zip"
   name "Claude Notch"
   desc "Floating panel that surfaces Claude Code sessions on macOS"
   homepage "https://github.com/arratiabenjamin/claude-notch"
